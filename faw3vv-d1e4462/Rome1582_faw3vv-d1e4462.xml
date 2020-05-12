@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>QUESTIO I.</title>
+        <author ref="#per-29vsnv">Bartholomeus Brixiensis</author>
+        <editor>Jeffrey C. Witt</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>QUESTIO I.</title>
+          <date when="2020-05-12">May 12, 2020</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref>SCTA</ref>
+        </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by/4.0">Creative
+            Commons Attribution 4.0 International</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="R" n="Rome1582">Rome 1582</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2020-05-12" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="faw3vv-d1e4462">
+        <head xml:id="faw3vv-d1e4462-Hd1e102">Quaestio 1</head>
+        <div xml:id="faw3vv-d1e4462-Dd1e105" type="gd-p2c6q1da1-et">
+          <head xml:id="faw3vv-d1e4462-Hd1e107">Dictum ante c. 1</head>
+          <p xml:id="faw3vv-d1e4462-d1e110">
+            <lb ed="#R"/><quote xml:id="faw3vv-d1e4462-Qd1e113" source="http://scta.info/resource/gd-p2c6q1-d1e106" type="lemma">Quod autem</quote>] in simonia quilibet auditur accusans contra lai<lb ed="#R"/>cum, 
+            etiam meretrix, vt <ref xml:id="faw3vv-d1e4462-Rd1e118">89. dist. si quis Papa</ref> &amp; <ref xml:id="faw3vv-d1e4462-Rd1e121" target="http://scta.info/resource/cice-l5t3-d1e210">extra de simo. tan<lb ed="#R"/>ta</ref>
+            &amp; hoc ideo, quia omnia crimina nulla reputantur respectu istius, 
+            ut <ref xml:id="faw3vv-d1e4462-Rd1e126">1 q. vlt.</ref> patet. secus si accusatus sit clericus, &amp; bonae famae, ut 2. 
+            <lb ed="#R"/>q. 1 in primis in fin. immo eadem est distinctio in laico. an prius 
+            <lb ed="#R"/>fuerit bonae famae, an non, ut ff. ad leg. Iul. maie. famosi. Licet au<lb ed="#R"/>tem 
+            in exceptis criminibus admittantur criminosi, non tamen sine tor<lb ed="#R"/>mento, 
+            vt <ref xml:id="faw3vv-d1e4462-Rd1e138">4. q. 3. si ea</ref> Si ergo clericus est bonae famae nullo crimi<lb ed="#R"/>ne 
+            suspectus, non auditur contra ipsaum, vt <ref xml:id="faw3vv-d1e4462-Rd1e144" target="http://scta.info/resource/cice-l2t20-d1e255">extra de testi. veniens</ref>. 
+            <lb ed="#R"/>Si est malae, qulibet admittitur ad accusandum &amp; testificandum, 
+            <lb ed="#R"/>vt <ref xml:id="faw3vv-d1e4462-Rd1e151" target="http://scta.info/resource/cice-l5t3-d1e589">extra de simo. per tuas</ref> Quidam tamen dicunt, quod licet viles admittan<lb ed="#R"/>tur 
+            ad accusationem, non tamen ad testimonium, quia tota vis negotii pen<lb ed="#R"/>det 
+            ex testimonio, sed non in accusatione. Vel dic, ut dixi <ref xml:id="faw3vv-d1e4462-Rd1e159">2 q. 1 in 
+              <lb ed="#R"/>primis in fin.</ref>
+          </p>
+        </div>
+        <div xml:id="faw3vv-d1e4462-Dd1e166" type="gd-p2c6q1c1-et">
+          <head xml:id="faw3vv-d1e4462-Hd1e168">Caput 1</head><p xml:id="faw3vv-d1e4462-d1e170">
+            <lb ed="#R"/><quote xml:id="faw3vv-d1e4462-Qd1e173" source="http://scta.info/resource/gd-p2c6q1-d1e117" type="lemma">Si sacerdos</quote> Quaesitum est ab <name>Anacelto</name>, an criminosi 
+            possit accusare sacerdotes? &amp; respondet; quod non; quia cum ab Apostolo
+            <lb ed="#R"/>praecipiatur sacerdotem sine crimine eligi, numquam debet a criminosis accusa<lb ed="#R"/>ri, 
+            sed ab illis tantum, qui possunt ad sacerdotium promoueri.
+          </p>
+          <p xml:id="faw3vv-d1e4462-d1e184">
+            <lb ed="#R"/><quote xml:id="faw3vv-d1e4462-Qd1e187" source="http://scta.info/resource/gd-p2c6q1-d1e117" type="lemma">Praecipitur</quote> ab Apostolo, ut 25 distinctione primum. si tale est 
+            <lb ed="#R"/>crimen quod est accusatione, &amp; damnatione dignissimum; vt <ref xml:id="faw3vv-d1e4462-Rd1e192" target="http://scta.info/resource/gd-p1d81-d1e123">81.
+            <lb ed="#R"/>distinctione Apostolus</ref>
+          </p>
+        </div>
+        <div xml:id="faw3vv-d1e4462-Dd1e199" type="gd-p2c6q1c2-et"> <!-- test type to experment with connection across expression types -->
+          <head xml:id="faw3vv-d1e4462-Hd1e203">Caput 2</head>
+          <p xml:id="faw3vv-d1e4462-d1e206">
+            <cb ed="#R" n="d"/> 
+            <lb ed="#R"/><quote xml:id="faw3vv-d1e4462-Qd1e211" source="http://scta.info/resource/gd-p2c6q1-d1e132" type="lemma">Omnes</quote> Casvs. Dicit <name>Hadrianus Papa</name>, quod omnes dicuntur es<lb ed="#R"/>se 
+            in fames, quos leges saeculi infames appellant, &amp; isti tales &amp; 
+            <lb ed="#R"/>alii qui suis culpis non possunt ad sacerdotium promoueri, repellun<lb ed="#R"/>tur 
+            ab accusatione: quia sicut maior a minori iudicari non potest 
+            <lb ed="#R"/>ita nec accusari.
+          </p>
+          <p xml:id="faw3vv-d1e4462-d1e227">
+            <lb ed="#R"/><quote xml:id="faw3vv-d1e4462-Qd1e230" source="http://scta.info/resource/gd-p2c6q1-d1e132" type="lemma">leges</quote> Sed quod alios dicimus infames secundum canones, qui 
+            <lb ed="#R"/>non sunt infames secundum leges, ut bigamos, &amp; corpore vitiatos, sicut 
+            <lb ed="#R"/>nec omnes dicimus infames secundum canones qui secundum leges sunt infa<lb ed="#R"/>mes, 
+            vt mulier, quae nubit intra tempus luctus Io. Sed certe bigami 
+            <lb ed="#R"/>&amp; corpore vitiati non sunt infames, &amp; si sint irregulares, cum non 
+            <lb ed="#R"/>deliquerint, B. Dicunt tamen quidam, quod infamia, quae est irrogata per 
+            <lb ed="#R"/>sententiam, vel quae contrahitur ipso facto, vt cum aliqua deprehenditur 
+            <lb ed="#R"/>in adulterio, vel cum aliquis contrahit binas nuptias: de qua agitur 
+            <lb ed="#R"/>ff. de his qui notam. in fa. quid ergo. infamia haec non purgatu rper quan<lb ed="#R"/>tamcumque 
+            paenitentia, ut 2. q. 3 <!-- section mark --> hinc colligitur nisi restitutus sit 
+            <lb ed="#R"/>ab illo qui potest restituere, vt a principe, vel a senatu, vt 2. q. 3 <!-- section mark --> notan<lb ed="#R"/>dum 
+            2 in fi. ff.de postu. l. 1 <!-- section mark --> de qua. Alia est infamia facti, de qua 
+            <lb ed="#R"/>agitur in ea sunt plurimi &amp; melius dicitur infamatio quae inducit pur<lb ed="#R"/>gationem. 
+            &amp; illa boletur purgatione praestitia, ut <ref xml:id="faw3vv-d1e4462-Rd1e268">15 q. 5 de crimi<lb ed="#R"/>ne</ref>. 
+            Est etima quaedam infamia canonica, quae irrogatur ex quolibet pec<lb ed="#R"/>cato 
+            mortali, vt hic, &amp; <ref xml:id="faw3vv-d1e4462-Rd1e275">32. q. 5 praeceptum in fine</ref> &amp; aboletur per poe<lb ed="#R"/>nitentiam, 
+            vt id est illi qui. tamen (vt dicunt quidam) talis non ad<lb ed="#R"/>mitteretur 
+            ad accusationem vel promotionem: quia non sufficit, quod mo<lb ed="#R"/>do 
+            non sit infamis: sed quod numquam fuerit infamis. id est qui crimen.
+            <lb ed="#R"/>Item infamia <unclear>concta</unclear> ex sententia excommunicationis tollitur per absolutionem, vt 
+            <lb ed="#R"/><ref xml:id="faw3vv-d1e4462-Rd1e291">3. q. 1. c. 1</ref> sicut finito tempore relegationis tollitur infamia orta ex 
+            <lb ed="#R"/>sententia. ff. ad munici. ordine.
+          </p>
+          <p xml:id="faw3vv-d1e4462-d1e297">
+            <lb ed="#R"/><quote xml:id="faw3vv-d1e4462-Qd1e300" source="http://scta.info/resource/gd-p2c6q1-d1e132" type="lemma">A minoribus</quote> Honestate morum, id est, criminosis, ne sit con<lb ed="#R"/>tra 
+            <ref xml:id="faw3vv-d1e4462-Rd1e305">2. q. 7 praesumunt &amp; cap. lator.</ref> 
+          </p>
+        </div>
+        <div xml:id="faw3vv-d1e4462-Dd1e310" type="gd-p2c6q1c3-et">
+          <head xml:id="faw3vv-d1e4462-Hd1e312">Caput 3</head>
+          <p xml:id="faw3vv-d1e4462-d1e315">
+            <lb ed="#R"/><quote xml:id="faw3vv-d1e4462-Qd1e318" source="http://scta.info/resource/gd-p2c6q1-d1e144" type="lemma">ILli qui</quote> Casvs. Hoc c. diuiditur in duas partes. Prima lo<lb ed="#R"/>quitur 
+            de peccatoribus non excommunicatis. Secunda de anathemati<lb ed="#R"/>zatis.
+            In prima ergo parte dicitur, quod illi qui mortalia peccata com<lb ed="#R"/>mittunt, 
+            non debent recipi ad accusandum: quia infames sunt, &amp; 
+            <lb ed="#R"/>in barathrum dilabuntur: nisi eis a sacerdotibus est subuentum: un<lb ed="#R"/>de 
+            <lb ed="#R"/>de sunt ad paenitentiam compellendi. In secunda parte dicitur, quod 
+            <lb ed="#R"/>anathematizati repelluntur similiter ab accusatione: quia infames 
+            <lb ed="#R"/>sunt: nec possunt communicare nobiscum, nisi absoluantur secun<lb ed="#R"/>da 
+            pars incipit ibi, <quote xml:id="faw3vv-d1e4462-Qd1e340" source="http://scta.info/resource/gd-p2c6q1-d1e163" type="lemma">similiter</quote> Sequens capitulum patet.
+          </p>
+          <!-- more paragraphs to follow -->
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>
