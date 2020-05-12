@@ -1,14 +1,14 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>QUESTIO I.</title>
+        <title>Pars 2, Casus 6, Quaestio 1.</title>
         <author ref="#per-29vsnv">Bartholomeus Brixiensis</author>
         <editor>Jeffrey C. Witt</editor>
       </titleStmt>
       <editionStmt>
         <edition n="0.0.0-dev">
-          <title>QUESTIO I.</title>
+          <title>Pars 2, Casus 6, Quaestio 1.</title>
           <date when="2020-05-12">May 12, 2020</date>
         </edition>
       </editionStmt>
@@ -29,7 +29,7 @@
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
-      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/diplomatic.rng"/>
       <editorialDecl>
         <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
           guidelines for a critical edition.</p>
@@ -52,6 +52,35 @@
         <head xml:id="faw3vv-d1e4462-Hd1e102">Quaestio 1</head>
         <div xml:id="faw3vv-d1e4462-Dd1e105" type="gd-p2c6q1da1-et">
           <head xml:id="faw3vv-d1e4462-Hd1e107">Dictum ante c. 1</head>
+          <p xml:id="faw3vv-d1e4462-d1e104">
+            <lb ed="#R"/><quote xml:id="faw3vv-d1e4462-Qd1e107" source="http://scta.info/resource/gd-p2c6q1-d1e106" type="lemma">Quod autem</quote> 
+            <lb ed="#R"/>Haec quae<lb ed="#R"/>setio 
+            diuidi<lb ed="#R"/>tur 
+            in quat<lb ed="#R"/>tuor par<lb ed="#R"/>tes 
+            In prima probatur 
+            per 16 auctoritates san<lb ed="#R"/>ctoru, 
+            quod infames, excom<lb ed="#R"/>municari, &amp; inimici non 
+            <lb ed="#R"/>posunt alios accusare. 
+            <lb ed="#R"/>Secunda ibi, <quote xml:id="faw3vv-d1e4462-Qd1e129" type="lemma">cum ita<lb ed="#R"/>que</quote>
+            Tertia ibi, <quote xml:id="faw3vv-d1e4462-Qd1e135" type="lemma">Quicum<lb ed="#R"/>que</quote>. 
+            Quarta ibi, <quote xml:id="faw3vv-d1e4462-Qd1e140" type="lemma">Verum</quote>.
+            <lb ed="#R"/>Io. de Fant. <!-- name?? -->
+          </p>
+          <p xml:id="faw3vv-d1e4462-d1e148">
+            Casvs <!-- is Casvs a metadata marker --> Hic intitula<lb ed="#R"/>tur 
+            prima quaestio, qua 
+            <lb ed="#R"/>quaeritur an criminosi 
+            <lb ed="#R"/>&amp; infames repellantur 
+            <lb ed="#R"/>ab accusatione? Et cer<lb ed="#R"/>tum 
+            est, quod sic, vt <ref xml:id="faw3vv-d1e4462-Rd1e163">2. q. 1 in primis</ref> nisi in crimi<lb ed="#R"/>ne 
+            excepto, vt <ref xml:id="faw3vv-d1e4462-Rd1e168">89 dist. si 
+              <lb ed="#R"/>quis Papa.</ref> &amp; <ref xml:id="faw3vv-d1e4462-Rd1e173" target="http://scta.info/resource/gd-p2c15q3-d1e164">15 q. 3 sa<lb ed="#R"/>ne.</ref>
+            &amp; procedit hoc ordi<lb ed="#R"/>ne 
+            Gra. in hac quaestio<lb ed="#R"/>ne, 
+            Primo probat, quod criminosi &amp; infames non debent admitti ad 
+            <lb ed="#R"/>accusandum, vsque <ref xml:id="faw3vv-d1e4462-Rd1e185">ad <!-- section marker --> sed licet</ref>. Postea dicit, quod in crimine excepto 
+            <lb ed="#R"/>&amp; in crimine simoniae bene admittuntur testes isti &amp; similes.
+          </p>
           <p xml:id="faw3vv-d1e4462-d1e110">
             <lb ed="#R"/><quote xml:id="faw3vv-d1e4462-Qd1e113" source="http://scta.info/resource/gd-p2c6q1-d1e106" type="lemma">Quod autem</quote>] in simonia quilibet auditur accusans contra lai<lb ed="#R"/>cum, 
             etiam meretrix, vt <ref xml:id="faw3vv-d1e4462-Rd1e118">89. dist. si quis Papa</ref> &amp; <ref xml:id="faw3vv-d1e4462-Rd1e121" target="http://scta.info/resource/cice-l5t3-d1e210">extra de simo. tan<lb ed="#R"/>ta</ref>
