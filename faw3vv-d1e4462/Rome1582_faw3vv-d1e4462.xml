@@ -32,7 +32,7 @@
       <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/diplomatic.rng"/>
       <editorialDecl>
         <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
-          guidelines for a critical edition.</p>
+          guidelines for a diplomatic edition.</p>
       </editorialDecl>
     </encodingDesc>
     <revisionDesc status="draft">
@@ -50,7 +50,7 @@
     <body>
       <div xml:id="faw3vv-d1e4462">
         <head xml:id="faw3vv-d1e4462-Hd1e102">Quaestio 1</head>
-        <div xml:id="faw3vv-d1e4462-Dd1e105" type="gd-p2c6q1da1-et">
+        <div xml:id="faw3vv-d1e4462-Dd1e105" type="gd-p2c6q1dac1-et">
           <head xml:id="faw3vv-d1e4462-Hd1e107">Dictum ante c. 1</head>
           <p xml:id="faw3vv-d1e4462-d1e104">
             <lb ed="#R"/><quote xml:id="faw3vv-d1e4462-Qd1e107" source="http://scta.info/resource/gd-p2c6q1-d1e106" type="lemma">Quod autem</quote> 
@@ -133,7 +133,7 @@
             <lb ed="#R"/>ff. de his qui notam. in fa. quid ergo. infamia haec non purgatu rper quan<lb ed="#R"/>tamcumque 
             paenitentia, ut 2. q. 3 <!-- section mark --> hinc colligitur nisi restitutus sit 
             <lb ed="#R"/>ab illo qui potest restituere, vt a principe, vel a senatu, vt 2. q. 3 <!-- section mark --> notan<lb ed="#R"/>dum 
-            2 in fi. ff.de postu. l. 1 <!-- section mark --> de qua. Alia est infamia facti, de qua 
+            2 in fi. ff. de postu. l. 1 <!-- section mark --> de qua. Alia est infamia facti, de qua 
             <lb ed="#R"/>agitur in ea sunt plurimi &amp; melius dicitur infamatio quae inducit pur<lb ed="#R"/>gationem. 
             &amp; illa boletur purgatione praestitia, ut <ref xml:id="faw3vv-d1e4462-Rd1e268">15 q. 5 de crimi<lb ed="#R"/>ne</ref>. 
             Est etima quaedam infamia canonica, quae irrogatur ex quolibet pec<lb ed="#R"/>cato 
